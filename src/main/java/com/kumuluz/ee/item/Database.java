@@ -29,7 +29,11 @@ public class Database {
     private static List<Item> items = new ArrayList<>(
             Arrays.asList(
                     new Item("1", "Nova unifroma", "ful je dobra", "1"),
-                    new Item("2", "Star uniforma", "ful ni glih dobra", "2")
+                    new Item("2", "Stara uniforma", "ful ni glih dobra", "2"),
+                    new Item("3", "Križ", "mau je znucan ampak za molt je dobr", "2"),
+                    new Item("4", "Čips Chio s sirom", "u klet smo ga najdl, rok je preteku", "2"),
+                    new Item("5", "Daljinec MOTOROLA", "Univerzalni MOTOROLA daljinec za vse vrste TVjev", "1"),
+                    new Item("6", "Cement", "1 vrečka", "1")
             )
     );
 
